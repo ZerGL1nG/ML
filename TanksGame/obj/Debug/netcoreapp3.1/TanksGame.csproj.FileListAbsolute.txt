@@ -1,0 +1,17 @@
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\TanksGame.exe
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\TanksGame.deps.json
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\TanksGame.runtimeconfig.json
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\TanksGame.runtimeconfig.dev.json
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\TanksGame.dll
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\TanksGame.pdb
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.csprojAssemblyReference.cache
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.AssemblyInfoInputs.cache
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.AssemblyInfo.cs
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.csproj.CoreCompileInputs.cache
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.dll
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.pdb
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.genruntimeconfig.cache
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\AI.exe
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\AI.dll
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\bin\Debug\netcoreapp3.1\AI.pdb
+D:\Prog\VisualStudioProjects\Games\Tanks\TanksGame\obj\Debug\netcoreapp3.1\TanksGame.csproj.CopyComplete

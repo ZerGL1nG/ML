@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AI\AI.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Core\AI\**" />
+      <Compile Remove="Core\IAgent.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Core\AI\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Core\AI\**" />
+    </ItemGroup>
+
+</Project>

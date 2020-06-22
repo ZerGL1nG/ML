@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsGW+AWEY7XOjhIt4EXDSrnvDvgkX8R29eUdo+XZGaw6nzpurYKLtHz7ZcraXpvHHjtJluxvG4y4qQo305lLWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Prog\\VisualStudioProjects\\Games\\Tanks\\TanksGame\\TanksGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

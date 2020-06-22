@@ -1,0 +1,13 @@
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\bin\Debug\netcoreapp3.1\AI.exe
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\bin\Debug\netcoreapp3.1\AI.deps.json
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\bin\Debug\netcoreapp3.1\AI.runtimeconfig.json
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\bin\Debug\netcoreapp3.1\AI.runtimeconfig.dev.json
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\bin\Debug\netcoreapp3.1\AI.dll
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\bin\Debug\netcoreapp3.1\AI.pdb
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\obj\Debug\netcoreapp3.1\AI.csprojAssemblyReference.cache
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\obj\Debug\netcoreapp3.1\AI.AssemblyInfoInputs.cache
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\obj\Debug\netcoreapp3.1\AI.AssemblyInfo.cs
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\obj\Debug\netcoreapp3.1\AI.csproj.CoreCompileInputs.cache
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\obj\Debug\netcoreapp3.1\AI.dll
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\obj\Debug\netcoreapp3.1\AI.pdb
+D:\Prog\VisualStudioProjects\Games\Tanks\AI\obj\Debug\netcoreapp3.1\AI.genruntimeconfig.cache
